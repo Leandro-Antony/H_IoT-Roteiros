@@ -6,6 +6,8 @@ Repositório com os roteiros de laboratório da disciplina de **Circuitos Eletr�
 
 ```
 H_IoT-Roteiros/
+├── Proposta de Projeto Final/
+    └── proposta.md
 ├── Roteiro 1/
 │   ├── Roteiro.md
 │   └── imagens/
@@ -17,6 +19,9 @@ H_IoT-Roteiros/
 Cada pasta contém um arquivo `Roteiro.md` com as respostas discursivas, cálculos (em LaTeX) e links das simulações no Falstad, além de uma pasta `imagens/` com as capturas de tela dos circuitos montados e das medições realizadas.
 
 ## 📚 Conteúdo
+
+### Proposta de Projeto Final
+- Proposta sugerida para que seja o projeto final da disciplina: Estação de monitoramento agrícola com ESP32
 
 ### Roteiro 1 — Introdução à Eletrônica
 - **Exercício 01:** Circuito com resistores em paralelo — cálculo de tensão e corrente, comparação entre valores calculados e simulados, discussão sobre a diferença entre componentes ideais e reais.
